@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Noto Serif', serif;
+    
+}
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    min-height: 100vh;
+    display: grid;
+    font-size: 15px;
+    color:black;
+    background-image:url(128-1284555_contact-us-white-vignette-background-hd.png);
+    
+}
+
+
+h1{
+    font-weight: 600;
+    font-size: 60px;
+    color: black;
+    position: relative;
+    margin-left:17cm;
+}
+
+.A{
+    margin-top:1cm;
+    width:100%;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content:space-around;
+    
+    font-size: 20px;
+    color: rgb(12, 12, 12);
+}
+
+

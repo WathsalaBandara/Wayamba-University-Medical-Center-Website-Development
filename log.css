@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:"Times New Roman";
+}
+
+.first{
+    background-image:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url(bg3.jpg);
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background-size: cover;
+    
+    
+ }
+.form-box{
+    width:500px;
+	height:250px;;
+	position:relative;
+	margin:8% auto;
+	background:transparent;
+	padding:15px;
+    overflow: hidden;
+	top: 100px;
+    font-weight:800;
+    font-size:30px;
+    cursor:pointer;
+    color:black;
+    display:block;
+    border-style:groove;
+    border-color: rgb(152, 152, 152);
+
+    
+    
+}
+
